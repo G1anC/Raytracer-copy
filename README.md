@@ -2,6 +2,7 @@
 
 A RayTracing algorythm that takes a .cfg file (configuration files are in scenes)
 and prints the results based on the given file.
+(There is almost 200 commits on the main private repo :,)
 
 ## Introduction
 

@@ -1,0 +1,8 @@
+raytracer
+*.txt
+*.o
+build/
+.vscode/
+tryouts/
+.idea
+vgcore.*
